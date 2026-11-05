@@ -1,6 +1,6 @@
 {
- "latest": "1.1.1",
- "min": "1.1.1",
+ "latest": "1.1.2",
+ "min": "1.1.2",
  "url": "https://github.com/cookiewikiadmin-hub/ckr-wwdc-botpc/releases/latest/download/CKR-WWDC.exe",
- "notes": "CKR WWDC PC Bot 1.1.1 — fixes the update loop (build_id refresh). Forced update."
+ "notes": "CKR WWDC PC Bot 1.1.2 — OS hardening + DPAPI. Forced update."
 }
