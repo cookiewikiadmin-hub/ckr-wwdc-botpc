@@ -1,6 +1,6 @@
 {
- "latest": "1.1.2",
- "min": "1.1.2",
- "url": "https://github.com/cookiewikiadmin-hub/ckr-wwdc-botpc/releases/latest/download/CKR-WWDC.exe",
- "notes": "CKR WWDC PC Bot 1.1.2 — OS hardening + DPAPI. Forced update."
+    "url":  "https://github.com/cookiewikiadmin-hub/ckr-wwdc-botpc/releases/latest/download/CKR-WWDC.exe",
+    "min":  "1.1.5",
+    "latest":  "1.1.5",
+    "notes":  "CKR WWDC PC Bot 1.1.5 - Forced update."
 }
