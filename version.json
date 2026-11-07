@@ -1,6 +1,6 @@
 {
     "url":  "https://github.com/cookiewikiadmin-hub/ckr-wwdc-botpc/releases/latest/download/CKR-WWDC.exe",
-    "min":  "1.1.6",
-    "latest":  "1.1.6",
-    "notes":  "CKR WWDC PC Bot 1.1.6"
+    "min":  "1.0.0",
+    "latest":  "1.0.0",
+    "notes":  "CKR WWDC PC Bot"
 }
